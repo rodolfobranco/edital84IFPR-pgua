@@ -74,7 +74,7 @@ d) Contribuir para o aperfeiçoamento educacional, especialmente o ensino de ci�
 Parágrafo único. Para integralizar o curso, o(a) aluno(a) deve: a) completar um mínimo de 30 créditos (distribuídos em disciplinas obrigatórias, disciplinas optativas e atividades complementares); b) ser aprovado(a) em exame de suficiência em língua estrangeira ou, se de nacionalidade estrangeira, em língua portuguesa; c) obter aprovação em exame de qualificação; e d) ter a Dissertação de Mestrado aprovada por Banca Examinadora, após defesa.
 ## 4. DAS VAGAS
 
-4.1. Serão ofertadas até 28 (vinte e oito) vagas, de acordo com o disposto no item 4.5 ([[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]]).
+4.1. Serão ofertadas até 28 (vinte e oito) vagas, de acordo com o disposto no item 4.5 [Quadro Sinótico 1](#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas).
 
 4.2. Apenas o número mínimo de vagas definido por cada orientador(a) – vide [[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]] – terá preenchimento obrigatório, desde que o(a) candidato(a) esteja classificado(a) e não tenha sido eliminado(a) em nenhuma das etapas do processo seletivo, sendo o número máximo facultativo ao(à) orientador(a).
 
