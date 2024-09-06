@@ -76,7 +76,7 @@ Parágrafo único. Para integralizar o curso, o(a) aluno(a) deve: a) completar u
 
 4.1. Serão ofertadas até 28 (vinte e oito) vagas, de acordo com o disposto no item 4.5 [Quadro Sinótico 1](#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas).
 
-4.2. Apenas o número mínimo de vagas definido por cada orientador(a) – vide [[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]] – terá preenchimento obrigatório, desde que o(a) candidato(a) esteja classificado(a) e não tenha sido eliminado(a) em nenhuma das etapas do processo seletivo, sendo o número máximo facultativo ao(à) orientador(a).
+4.2. Apenas o número mínimo de vagas definido por cada orientador(a) – vide [Quadro Sinótico 1](#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas) – terá preenchimento obrigatório, desde que o(a) candidato(a) esteja classificado(a) e não tenha sido eliminado(a) em nenhuma das etapas do processo seletivo, sendo o número máximo facultativo ao(à) orientador(a).
 
 4.3. Os temas disponíveis para orientação estão disponíveis no Anexo I.
 
@@ -125,19 +125,19 @@ No qual constem disciplinas cursadas e graus obtidos.
 #### III. Cópia do Currículo Lattes
 Modo completo, atualizado, obtido diretamente da Plataforma Lattes do CNPq, disponível em: [http://lattes.cnpq.br/](http://lattes.cnpq.br/).
 #### IV. Comprovantes e Pontuação do Currículo Lattes
-Conforme as instruções disponíveis no [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]]. Estes documentos devem ser digitalizados e submetidos no sistema de inscrição em arquivo único no formato _Portable Document Format_ (PDF).
+Conforme as instruções disponíveis no [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md). Estes documentos devem ser digitalizados e submetidos no sistema de inscrição em arquivo único no formato _Portable Document Format_ (PDF).
 #### V. Cópia da carteira de identidade – RG, da Carteira Nacional de Habilitação – CNH ou da Carteira de Trabalho 
 (cópia das páginas com foto e qualificação civil). Estes documentos devem ser digitalizados e submetidos no sistema de inscrição em arquivo PDF único.
 #### VI. Para estrangeiros, cópia do Passaporte 
 (cópia das páginas com foto e qualificação civil). O documento deve ser digitalizado e submetido no sistema de inscrição em arquivo PDF único.
 #### VII. Proposta de projeto de pesquisa
-Modelo do [[ANEXO IV – MODELO DE PROPOSTA DE PROJETO DE PESQUISA|Anexo IV]] em formato PDF.
+Modelo do [Anexo IV](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20IV%20%E2%80%93%20MODELO%20DE%20PROPOSTA%20DE%20PROJETO%20DE%20PESQUISA.md) em formato PDF.
 #### VIII. Carta do empregador
-Conforme modelo do [[ANEXO V – MODELO DE DECLARAÇÃO DE LIBERAÇÃO DO EMPREGADOR|Anexo V]], liberando-o de suas atividades para a participação nas aulas (presença em no mínimo 75% das aulas) e nas atividades acadêmico-científicas do PPGCTS/IFPR, para candidatos com vínculo empregatício. Os(As) candidatos(as) que não possuírem vínculo empregatício devem apresentar declaração manifestando tal situação (modelo do [[ANEXO VI – DECLARAÇÃO DE NÃO POSSUIR VÍNCULO EMPREGATÍCIO|Anexo VI]]).
+Conforme modelo do [Anexo V](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20V%20%E2%80%93%20MODELO%20DE%20DECLARA%C3%87%C3%83O%20DE%20LIBERA%C3%87%C3%83O%20DO%20EMPREGADOR.md), liberando-o de suas atividades para a participação nas aulas (presença em no mínimo 75% das aulas) e nas atividades acadêmico-científicas do PPGCTS/IFPR, para candidatos com vínculo empregatício. Os(As) candidatos(as) que não possuírem vínculo empregatício devem apresentar declaração manifestando tal situação (modelo do [Anexo V](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20V%20%E2%80%93%20MODELO%20DE%20DECLARA%C3%87%C3%83O%20DE%20LIBERA%C3%87%C3%83O%20DO%20EMPREGADOR.md).
 
-5.5. Todos os documentos solicitados ==devem ser digitalizados em excelente resolução, estar legíveis e anexados no sistema de inscrição obrigatoriamente no formato _Portable Document Format_ (PDF).==
+5.5. Todos os documentos solicitados devem ser digitalizados em excelente resolução, estar legíveis e anexados no sistema de inscrição obrigatoriamente no formato _Portable Document Format_ (PDF).
 
-5.6. O(A) candidato(a) deverá ==obrigatoriamente informar, no formulário eletrônico de inscrição, o(a) orientador(a) a cuja vaga deseja concorrer.==
+5.6. O(A) candidato(a) deverá obrigatoriamente informar, no formulário eletrônico de inscrição, o(a) orientador(a) a cuja vaga deseja concorrer.
 
 5.7. Caso algum documento do item 5.4 não seja entregue no formato indicado por este Edital, o(a) candidato(a) terá sua inscrição indeferida automaticamente.
 
@@ -149,11 +149,11 @@ Conforme modelo do [[ANEXO V – MODELO DE DECLARAÇÃO DE LIBERAÇÃO DO EMPREG
 
 5.10. Caso o(a) candidato(a) realize duas ou mais inscrições, apenas a última, em ordem cronológica, será considerada.
 
-5.11. ==O(A) candidato(a) deverá declarar, no ato da inscrição, se opta por concorrer a uma vaga reservada à Política de Cotas.==
+5.11. O(A) candidato(a) deverá declarar, no ato da inscrição, se opta por concorrer a uma vaga reservada à Política de Cotas.
 
 ### § 1º: Serão consideradas as seguintes categorias de identificação e/ou situação das cotas e respectivas definições:
 
-#### I - ==População Negra:== 
+#### I - População Negra:
 o conjunto de pessoas que se autodeclaram pretas e pardas, conforme o quesito cor ou raça usado pelo Instituto Brasileiro de Geografia e Estatística (IBGE);
 #### II - Pessoas com Deficiência: 
 aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas;
@@ -198,7 +198,7 @@ e) ETAPA 5 – Entrevista Individual (EI): etapa de caráter eliminatório e cl
 
 § 1º Os(As) candidatos(as) que optarem por concorrer às vagas reservadas à Política de Cotas serão classificados(as) em ordem decrescente conforme a nota final – NF, produzindo-se, assim, uma lista de classificação específica para cada categoria de cotas.
 
-§ 2º Para a composição das listas finais de candidatos(as) aprovados(as) com cada professor(a) orientador(a), serão selecionados(as), alternadamente e nessa ordem, um(a) candidato(a) da lista de classificação geral e um(a) candidato(a) das listas de classificação específicas de cada categoria de cotas. Essa seleção alternada repetir-se-á até que se completem as quantidades previstas no item 4.5 ([[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]]).
+§ 2º Para a composição das listas finais de candidatos(as) aprovados(as) com cada professor(a) orientador(a), serão selecionados(as), alternadamente e nessa ordem, um(a) candidato(a) da lista de classificação geral e um(a) candidato(a) das listas de classificação específicas de cada categoria de cotas. Essa seleção alternada repetir-se-á até que se completem as quantidades previstas no item 4.5 [Quadro Sinótico 1](#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas).
 
 § 4~~5~~º Caso o(a) candidato(a) optante por uma das categorias das cotas, após o processo de avaliação, tenha como resultado uma nota que o classifique dentro da lista de classificação geral, a vaga de cota deve ser destinada para o(a) próximo(a) classificado(a) na categoria.
 
@@ -211,7 +211,7 @@ c) maior pontuação na Etapa 4;
 d) maior pontuação na Etapa 3;
 e) candidato com a maior idade.
 
-6.9. Caso haja, na lista de classificação de um(a) professor(a) orientador(a), candidatos(as) classificados(as) em número menor que o máximo estabelecido no [[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]] (item 4.5), pode haver a reclassificação.
+6.9. Caso haja, na lista de classificação de um(a) professor(a) orientador(a), candidatos(as) classificados(as) em número menor que o máximo estabelecido no [Quadro Sinótico 1](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/Edital%20-%20Mestrado%20da%20Sara.md#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas) (item 4.5), pode haver a reclassificação.
 
 6.9.1. A reclassificação consiste na alteração do(a) orientador(a) inicialmente informado por um(a) candidato(a), que ficará alocado(a) na lista de classificação do(a) novo(a) professor(a) orientador(a).
 
@@ -227,7 +227,7 @@ c) Deve haver concordância do(a) candidato(a) e do(a) orientador(a).
 
 6.9.4. Para o posicionamento do(a) candidato(a) reclassificado(a) na lista de classificação final correspondente ao(à) novo(a) professor(a) orientador, deve ser utilizada a nota final - NF.
 
-6.10. A classificação final, considerando o disposto acima, será estabelecida por orientador(a), conforme definido no ato da inscrição e em consonância com o disposto no item 4.5 ([[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]]).
+6.10. A classificação final, considerando o disposto acima, será estabelecida por orientador(a), conforme definido no ato da inscrição e em consonância com o disposto no item 4.5 ([Quadro Sinótico 1](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/Edital%20-%20Mestrado%20da%20Sara.md#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas)).
 
 ## 7. DOS REQUISITOS PARA COMPROVAÇÃO DAS COTAS
 
@@ -237,13 +237,13 @@ c) Deve haver concordância do(a) candidato(a) e do(a) orientador(a).
 
 § 2º: No caso específico de optante pela categoria Pessoas Trans, caso não seja apresentado algum dos documentos comprobatórios listados na alínea b, inciso V do item 7.3, o(a) candidato(a) classificado será submetido(a) a entrevista.
 
-==7.2. Os(As) candidatos(as) classificados(as) optantes pelas categorias População Negra, Pessoas com Deficiência e Pessoas Trans serão submetidos(a) a entrevista feita por banca de verificação da condição autodeclarada.==
+7.2. Os(As) candidatos(as) classificados(as) optantes pelas categorias População Negra, Pessoas com Deficiência e Pessoas Trans serão submetidos(a) a entrevista feita por banca de verificação da condição autodeclarada.
 
 Parágrafo único: No caso específico de optante pela categoria Pessoas Trans, a entrevista será obrigatória apenas no caso de não ser apresentado algum dos documentos comprobatórios listados na alínea b, inciso V do item 7.3.
 
 7.3. Os documentos exigidos dos(as) candidatos(as) optantes por concorrer a vagas de cotas são os seguintes, conforme a categoria:
 
-==I - População negra: autodeclaração;==
+I - População negra: autodeclaração;
 
 II - Indígenas:
 
@@ -297,7 +297,7 @@ Parágrafo único: O período para apresentação dos documentos requeridos pelo
 
 7.4. As bancas de verificação da comprovação da cota exigida dos(as) candidatos(as) são as seguintes, conforme a categoria:
 
-==I - População negra: procedimento presencial de heteroidentificação racial, com banca de validação constituída por, no mínimo, três membros, procurando manter a heterogeneidade de raça/cor e gênero. Serão considerados para validação o fenótipo e o roteiro da entrevista, conforme orientações da Portaria Normativa do Ministério do Planejamento nº 04/2018, que regula procedimentos de heteroidentificação racial.==
+I - População negra: procedimento presencial de heteroidentificação racial, com banca de validação constituída por, no mínimo, três membros, procurando manter a heterogeneidade de raça/cor e gênero. Serão considerados para validação o fenótipo e o roteiro da entrevista, conforme orientações da Portaria Normativa do Ministério do Planejamento nº 04/2018, que regula procedimentos de heteroidentificação racial.
 
 II - Indígenas: dispensados.
 
@@ -442,11 +442,11 @@ e) Uso da linguagem, precisão e correção gramatical.
 
 10.2. Na Etapa 3 – Projeto de Pesquisa, os(as) candidatos(as) que obtiverem nota inferior a 6,0 (seis) estarão automaticamente eliminados(as) do certame.
 
-10.3. A proposta de projeto de pesquisa deve estar em consonância com algum(ns) dos temas indicados pelo(a) orientador(a) a cuja vaga está concorrendo, conforme disposto no [[ANEXO I – Temas de orientação por docente orientador(a)|Anexo I]].
+10.3. A proposta de projeto de pesquisa deve estar em consonância com algum(ns) dos temas indicados pelo(a) orientador(a) a cuja vaga está concorrendo, conforme disposto no [Anexo I](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20I%20%E2%80%93%20Temas%20de%20orienta%C3%A7%C3%A3o%20por%20docente%20orientador(a).md).
 
-10.4. Sugestões de referências bibliográficas que podem ser utilizadas para a elaboração do projeto de pesquisa são encontradas no [[ANEXO II – SUGESTÕES DE BIBLIOGRAFIA|Anexo II]].
+10.4. Sugestões de referências bibliográficas que podem ser utilizadas para a elaboração do projeto de pesquisa são encontradas no [Anexo II](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20II%20%E2%80%93%20SUGEST%C3%95ES%20DE%20BIBLIOGRAFIA.md).
 
-10.5. A proposta de projeto de pesquisa deve ter, no mínimo, oito e, no máximo, doze páginas, além de ser considerada a fonte Arial tamanho 12 pt e espaçamento entre linhas igual a 1,5 cm (modelo no [[ANEXO IV – MODELO DE PROPOSTA DE PROJETO DE PESQUISA|Anexo IV]]).
+10.5. A proposta de projeto de pesquisa deve ter, no mínimo, oito e, no máximo, doze páginas, além de ser considerada a fonte Arial tamanho 12 pt e espaçamento entre linhas igual a 1,5 cm (modelo no [Anexo IV](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20IV%20%E2%80%93%20MODELO%20DE%20PROPOSTA%20DE%20PROJETO%20DE%20PESQUISA.md).
 
 10.6. A proposta de projeto de pesquisa deve explicitar e contextualizar o problema a ser abordado, justificar sua pertinência, apresentar seus objetivos gerais e específicos, indicar os procedimentos metodológicos da investigação associados aos recursos envolvidos e aos resultados previstos/possíveis/conjecturados durante o desdobramento da pesquisa.
 
@@ -483,17 +483,17 @@ f) Coerência entre os objetivos elencados, o(s) caminho(s) metodológico(s) vis
 
 11.1. O Currículo Lattes está disponível para preenchimento em: [http://lattes.cnpq.br/](http://lattes.cnpq.br/).
 
-==11.2. O Currículo Lattes deve ter, obrigatoriamente, atualização em data igual ou posterior a 01/07/24.==
+11.2. O Currículo Lattes deve ter, obrigatoriamente, atualização em data igual ou posterior a 01/07/24.
 
 Parágrafo único. No Currículo Lattes devem constar todas as informações relacionadas a formação acadêmica, experiência profissional e produção acadêmico-científica.
 
-11.3. A comprovação do Currículo Lattes deverá, obrigatoriamente, ser digitalizada em arquivo único e obedecer estritamente às instruções para inserção no sistema de inscrição do PPGCTS, conforme o disposto no [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]].
+11.3. A comprovação do Currículo Lattes deverá, obrigatoriamente, ser digitalizada em arquivo único e obedecer estritamente às instruções para inserção no sistema de inscrição do PPGCTS, conforme o disposto no [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md).
 
-11.3.1. No [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]], são apresentadas, de forma detalhada, as pontuações que poderão ser solicitadas/atribuídas.
+11.3.1. No [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md), são apresentadas, de forma detalhada, as pontuações que poderão ser solicitadas/atribuídas.
 
 11.3.2. No ato da inscrição, o(a) candidato(a) deverá preencher, de acordo com o Anexo III, a pontuação solicitada correspondente ao comprovante anexado.
 
-11.3.3. As comprovações referentes aos itens do Currículo Lattes deverão, obrigatoriamente, ser digitalizadas e incluídas no mesmo arquivo dos quadros constantes no [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]].
+11.3.3. As comprovações referentes aos itens do Currículo Lattes deverão, obrigatoriamente, ser digitalizadas e incluídas no mesmo arquivo dos quadros constantes no [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md).
 
 11.3.4. Para efeitos de pontuação deverá ser considerada a produção técnico-científica dos últimos cinco anos (2020 a 2024). Comprovações que não estejam compreendidas neste intervalo de tempo serão desconsideradas.
 
@@ -503,15 +503,15 @@ Parágrafo único. No Currículo Lattes devem constar todas as informações rel
 
 11.3.7. É vedada a pontuação de um mesmo título em mais de um item.
 
-11.3.8. Considerando o [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]], as pontuações no Grupo II – Experiência docente e no Grupo III – Participação em projetos serão limitadas a, no máximo, 5,0 (cinco) pontos em cada um dos grupos.
+11.3.8. Considerando o [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md), as pontuações no Grupo II – Experiência docente e no Grupo III – Participação em projetos serão limitadas a, no máximo, 5,0 (cinco) pontos em cada um dos grupos.
 
-11.3.9. Considerando o [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]], a pontuação no item 4.8 do Grupo IV – Produção Técnico-Científica estará limitada a, no máximo, dez participações em eventos científicos.
+11.3.9. Considerando o [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md), a pontuação no item 4.8 do Grupo IV – Produção Técnico-Científica estará limitada a, no máximo, dez participações em eventos científicos.
 
-11.3.10. Considerando o [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]], a pontuação no item 4.10 do Grupo IV – Produção Técnico-Científica estará limitada a, no máximo, dez apresentações em eventos científicos.
+11.3.10. Considerando o [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md), a pontuação no item 4.10 do Grupo IV – Produção Técnico-Científica estará limitada a, no máximo, dez apresentações em eventos científicos.
 
-11.4. Será atribuída uma pontuação, de 0,0 (zero) a 10,0 (dez), ao Currículo Lattes de acordo com os critérios definidos no [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]].
+11.4. Será atribuída uma pontuação, de 0,0 (zero) a 10,0 (dez), ao Currículo Lattes de acordo com os critérios definidos no [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md).
 
-11.5. Itens do [[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES|Anexo III]] que não sejam acompanhados da comprovação correspondente não serão pontuados.
+11.5. Itens do [Anexo III](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20III%20%E2%80%93%20COMPROVANTES%20E%20PONTUA%C3%87%C3%83O%20DO%20CURR%C3%8DCULO%20LATTES.md) que não sejam acompanhados da comprovação correspondente não serão pontuados.
 
 ## 12. DA ENTREVISTA INDIVIDUAL
 
@@ -563,13 +563,13 @@ e) Informações socioeconômicas do(a) candidato(a), previsão de bolsa para o 
 
 13.1. O presente processo seletivo será conduzido pela Comissão de Seleção do PPGCTS, instituída pela Portaria de Pessoal nº 60, de 30 de abril de 2024, da Direção Geral do IFPR Campus Paranaguá.
 
-13.2. Caso algum dos membros da Comissão de Seleção ou docentes cujos nomes constam no [[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]], passíveis de participar de etapas do processo seletivo, possuam vínculo de parentesco com o(a) candidato(a), este(a) deverá prestar a informação no Formulário de Inscrição.
+13.2. Caso algum dos membros da Comissão de Seleção ou docentes cujos nomes constam no [Quadro Sinótico 1](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/Edital%20-%20Mestrado%20da%20Sara.md#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas), passíveis de participar de etapas do processo seletivo, possuam vínculo de parentesco com o(a) candidato(a), este(a) deverá prestar a informação no Formulário de Inscrição.
 
 13.3. Em função das informações declaradas pelos(as) candidatos(as), o Colegiado de Pós-Graduação (CPG) do PPGCTS/IFPR, após diligenciar para esclarecimento do que se fizer necessário, deliberará sobre eventuais mudanças na composição da Comissão de Seleção que atuará no processo seletivo, divulgando sua decisão no site do PPGCTS/IFPR, via edital.
 
-13.4.  Sob possibilidade de impugnação sumária da inscrição, o(a) candidato(a) deverá apontar expressamente o tipo de relação de parentesco com o(s) membro(s) da Comissão de Seleção ou com o(s) docente(s) constante(s) no [[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]] deste edital.
+13.4.  Sob possibilidade de impugnação sumária da inscrição, o(a) candidato(a) deverá apontar expressamente o tipo de relação de parentesco com o(s) membro(s) da Comissão de Seleção ou com o(s) docente(s) constante(s) no [Quadro Sinótico 1](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/Edital%20-%20Mestrado%20da%20Sara.md#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas) deste edital.
 
-13.5. Não apresentada informação ao longo do período de inscrição, previsto no [[#8.1. Quadro Sinótico 2 – Cronograma do Processo Seletivo|Quadro Sinótico 2]], o(a) candidato(a) perderá o direito de fazê-la.
+13.5. Não apresentada informação ao longo do período de inscrição, previsto no [Quadro Sinótico 2](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/Edital%20-%20Mestrado%20da%20Sara.md#81-quadro-sin%C3%B3tico-2--cronograma-do-processo-seletivo), o(a) candidato(a) perderá o direito de fazê-la.
 
 13.6. A Portaria de Pessoal nº 60, de 30 de abril de 2024, da Direção Geral do IFPR Campus Paranaguá, será publicada no site do PPGCTS/IFPR.
 
@@ -579,7 +579,7 @@ e) Informações socioeconômicas do(a) candidato(a), previsão de bolsa para o 
 
 14.1. A Comissão de Seleção publicará edital no site do IFPR Campus Paranaguá informando a data e os documentos necessários para a matrícula. Estarão aptos(as) para efetuar a matrícula no PPGCTS/IFPR os(as) candidatos(as) que forem aprovados(as) no universo de vagas disponíveis no processo seletivo e apresentarem certificado de conclusão de curso de graduação até a data estabelecida para a matrícula.
 
-14.2. Seguindo a ordem da lista de classificação final, é prevista a convocação de candidatos(as) em chamada complementar, no caso de candidatos(as) aprovados(as) dentro do número de vagas disponíveis por cada orientador ([[#4.5. Quadro Sinótico 1 – Número de vagas por docentes orientadores(as)|Quadro Sinótico 1]]) não efetuarem a matrícula na data estabelecida em Edital.
+14.2. Seguindo a ordem da lista de classificação final, é prevista a convocação de candidatos(as) em chamada complementar, no caso de candidatos(as) aprovados(as) dentro do número de vagas disponíveis por cada orientador ([Quadro Sinótico 1](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/Edital%20-%20Mestrado%20da%20Sara.md#45-quadro-sin%C3%B3tico-1--n%C3%BAmero-de-vagas-por-docentes-orientadoresas)) não efetuarem a matrícula na data estabelecida em Edital.
 
 14.3. O PPGCTS não garante a concessão de bolsa de estudos ou taxa escolar aos(as) candidatos(as) classificados(as). A disponibilidade de bolsas ou taxas depende das agências de fomento e pode sofrer variação em relação a diferentes períodos de vigência. Eventuais bolsas de estudos ou taxas escolares serão distribuídas de acordo com os critérios estabelecidos pelas mesmas e por deliberação da Coordenação de Curso do PPGCTS/IFPR.
 
@@ -609,17 +609,8 @@ e) Informações socioeconômicas do(a) candidato(a), previsão de bolsa para o 
 
 Parágrafo único.  No caso de PNE, a Comissão de Seleção deverá providenciar os meios necessários para garantir as condições de acesso e participação.
 
-15.10. Os(As) Candidatos(as) poderão interpor recurso conforme cronograma apresentado no [[#8.1. Quadro Sinótico 2 – Cronograma do Processo Seletivo|Quadro Sinótico 2]], enviando-o exclusivamente ao email mestradoicts.paranagua@ifpr.edu.br.
+15.10. Os(As) Candidatos(as) poderão interpor recurso conforme cronograma apresentado no [Quadro Sinótico 2](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/Edital%20-%20Mestrado%20da%20Sara.md#81-quadro-sin%C3%B3tico-2--cronograma-do-processo-seletivo), enviando-o exclusivamente ao email mestradoicts.paranagua@ifpr.edu.br.
 
-Parágrafo único.  O modelo para interposição de recurso está disponível no Anexo VII deste edital.
+Parágrafo único.  O modelo para interposição de recurso está disponível no [Anexo VII](https://github.com/rodolfobranco/edital84IFPR-pgua/blob/main/ANEXO%20VII%20%E2%80%93%20MINUTA%20DE%20RECURSO.md) deste edital.
 
 15.11. Todos os prazos apresentados neste Edital seguem o horário oficial de Brasília.
-
-
-[[ANEXO I – Temas de orientação por docente orientador(a)]]
-[[ANEXO II – SUGESTÕES DE BIBLIOGRAFIA]]
-[[ANEXO III – COMPROVANTES E PONTUAÇÃO DO CURRÍCULO LATTES]]
-[[ANEXO IV – MODELO DE PROPOSTA DE PROJETO DE PESQUISA]]
-[[ANEXO V – MODELO DE DECLARAÇÃO DE LIBERAÇÃO DO EMPREGADOR]]
-[[ANEXO VI – DECLARAÇÃO DE NÃO POSSUIR VÍNCULO EMPREGATÍCIO]]
-[[ANEXO VII – MINUTA DE RECURSO]]
